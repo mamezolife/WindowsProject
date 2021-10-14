@@ -1,2 +1,2 @@
-# WindowsProject
+# Windowsアプリケーション（なにもしないプログラム）
  
